@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         I am Changed!
+         The test is being performed in Travis
         </p>
         <a
           className="App-link"
